@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+### Janmesh Ukey
+# Machine Learning Engineer @ AICoE, Jio
 
-You can use the [editor on GitHub](https://github.com/j-void/j-void.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -28,10 +26,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Publication
+
+- Krishna S*, Janmesh U*, Jayagopi D. “GAN Based Indian Sign Language Synthesis”, accepted to the proceedings of 12th Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), Jodhpur, India, Dec 2021. [Link](url)
+- J. S. K. Patibandla, S. K. Adhikary and J. Ukey, "Augmented Reality for Assistive Maintenance and Real-Time Failure Analysis in Industries," 2020 2nd International Conference on Innovative Mechanisms for Industry Applications (ICIMIA), Bangalore, India, 2020, pp. 149 - 153. [Link](url)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j-void/j-void.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
